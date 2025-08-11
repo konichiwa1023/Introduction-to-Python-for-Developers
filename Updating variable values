@@ -1,0 +1,17 @@
+# Create a boolean variable called is_adult
+is_adult = age >= 18
+
+# Update John's address
+address = "Buckingham Palace, London, SW1A 1AA"
+
+# Update the account_balance
+account_balance = 1300000.00
+
+# Update the is_millionare
+is_millionaire = True
+
+# Print their information
+print("John's address:", address)
+print("Is John an adult?", is_adult)
+print("What is John account balance", account_balance)
+print("Is john a millionaire?",is_millionaire)
