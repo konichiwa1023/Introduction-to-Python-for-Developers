@@ -1,0 +1,4 @@
+customer_age = 49
+
+# Use the type() function to check the data type
+print(type(customer_age))
