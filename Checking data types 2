@@ -1,0 +1,4 @@
+account_balance = 120078.89
+
+# Use the type() function to check the data type
+print(type(account_balance))
