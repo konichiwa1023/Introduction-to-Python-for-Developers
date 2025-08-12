@@ -1,0 +1,7 @@
+# Print the song by Coldplay
+print(playlist["Coldplay"])
+
+# Add a new song
+playlist["Usher"] = "Yeah!"
+
+print(playlist.values())
