@@ -1,0 +1,2 @@
+# Print all songs in the playlist
+print(playlist[1::3])
