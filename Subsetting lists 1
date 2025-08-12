@@ -1,0 +1,2 @@
+# Find the name of the second song (fifth element) in the playlist and print it
+print(playlist[4])
