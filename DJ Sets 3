@@ -1,0 +1,11 @@
+# Create a set for indie music
+indie_set = {"Kings of Leon", "MGMT", "Stereophonics"}
+
+# Create a list for hip hop music
+hip_hop = ["Drake", "JAY-Z", "50 Cent", "Drake"]
+
+# Convert the hip hop list to a set
+hip_hop_set = set(hip_hop)
+
+# Print the sets
+print(indie_set, hip_hop_set)
