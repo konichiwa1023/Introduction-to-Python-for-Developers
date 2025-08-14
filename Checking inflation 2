@@ -1,0 +1,7 @@
+# Check if September inflation is less than August inflation
+if inflation_september < inflation_august:
+  print("Inflation decreased")
+
+# Check if September inflation is more than August inflation
+elif inflation_september > inflation_august:
+  print("Inflation increased")
