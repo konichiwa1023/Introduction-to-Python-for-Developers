@@ -1,0 +1,6 @@
+# Loop through the dictionary
+for genre, sale in genre_sales.items():
+
+  # Check if genre is Horror or Mystery
+  if genre == "Horror" or  genre == "Mystery":
+    print(genre, sale)
